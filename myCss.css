@@ -1,0 +1,38 @@
+body{
+	
+	margin-top:0px;
+	background-color:gray;
+}
+.nav{
+	clear:both;
+}
+#nav{
+	width:1050px;
+    margin-left:100px;
+}
+#nav ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#nav ul li{
+	       width:180px;
+		   height:40px;
+		   background:gray;
+		   margin-right:3px;
+		   margin-left:2px;
+		   line-height:35px;
+		   text-align:center;
+		   font-size:25px;
+		   position:relative;
+		   float:left;
+		   border-radius:10px;
+}
+#nav ul li a{
+	color:black;
+	display:block;
+	text-decoration:none;
+}
+
+
+
